@@ -25,7 +25,7 @@ O **DSList** é uma API RESTful desenvolvida com **Java e Spring Boot**, que per
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/dslist.git
+   git clone https://github.com/hennanhfalcao/dslist.git
    cd dslist
    ```
 
